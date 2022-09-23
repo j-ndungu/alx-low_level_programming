@@ -3,6 +3,8 @@
 /**
  *strcat -concatenates the stringpointrd b @src, including the terminal
  *null byte, to the end of the string pointed by @dest
+ *@dest: Pointer to the string to be concatenated upon.
+ *@src: The soursce string to be appended to @dest
  *Return: 0
  */
 
