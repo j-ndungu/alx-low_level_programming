@@ -2,7 +2,7 @@
 
 #include "main.h"
 /**
- *_puts - prints a 
+ *_puts - prints a
  * @str: string to print
  * Description: prints a s
  * On success: returns no error
